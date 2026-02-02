@@ -9,7 +9,7 @@ to keep things small and booting super quick by avoiding the JVM. :racehorse:
 
 ## Usage
 
-Simply add a step such as the following to your your workflow yml file:
+Simply add a step such as the following to your workflow yml file:
 
 ```yml
 - name: Check for scalafmt conformance
